@@ -1,1 +1,1 @@
-# switch_statement
+# swicth-statement
